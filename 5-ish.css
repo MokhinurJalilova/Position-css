@@ -1,0 +1,173 @@
+body, div {
+  margin: 0;
+  padding: 0;
+}
+
+.head {
+  width: 960px;
+  height: 200px;
+  background-image: url("barrk.jpg");
+  margin: 0 auto;
+  border-bottom: 4px dotted #e0dada;
+}
+
+.head-top {
+  width: 960px;
+  height: 30px;
+  background-color: #25262a;
+  border-top: 4px dotted #e0dada;
+  border-bottom: 4px dotted #e0dada;
+}
+.head-top ul {
+list-style-type: none;
+margin-block-start: 0;
+margin-block-end: 0;
+margin-inline-start: 0;
+padding-inline-start: 0;
+}
+
+.head-top LI {
+display: inline-block;
+padding: 5px 25px 0px 25px;
+}
+
+.head-top a {
+  text-decoration: none;
+  color: #e0dada;
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+.head-top b {
+  color: #3e6abc;
+  padding-left: 60px;
+}
+
+.head-bottom {
+  padding-top: 50px;
+
+}
+
+.head-bottom span {
+  float: right;
+  padding-right: 50px;
+  color: #e0dada;
+  padding-top: 10px;
+}
+
+.head img {
+  padding-left: 100px;
+}
+
+.rang {
+  background-color: #11c0b2;
+  height: 5px;
+  margin-top: 72px;
+}
+
+.left b {
+  background-color: #44e5eb;
+}
+
+
+
+
+
+
+.bottom {
+  margin: 0 auto;
+  width: 760px;
+}
+
+
+.top {
+  width: 760px;
+  height: 280px;
+  background-image: url("1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  bottom: 35px;
+  margin: 0 auto;
+}
+
+.text {
+  width: 500px;
+  padding-top:70px;
+}
+
+.left {
+  width: 440px;
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.pass {
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+  padding-top: 0px;
+  display: inline-block;
+}
+
+.orta {
+  height: 30px;
+  background-color: #d9d5d5;
+  margin: 40px 0 20px 10px;
+}
+
+.orta a {
+  text-decoration: none;
+}
+
+.pas {
+  padding: 10px;
+  padding-top: 0px;
+}
+h4 {
+  float: right;
+  margin-top: 5px;
+  padding-right: 10px;
+}
+
+h5 {
+  display: inline-block;
+  margin-top: 5px;
+  padding-left: 10px;
+}
+
+.raight {
+  background-color: #f6f4f4;
+  width: 300px;
+  display: inline-block;
+
+}
+
+.pot {
+  border-style: double;
+  border-color: #c2baba;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.mottob img {
+  width: 80px;
+  height: 80px;
+  border: 5px;
+  border-style: double;
+  border-color: #c2baba;
+  padding: 20px;
+  margin-left:5px;
+
+}
+
+.mottob {
+  padding-left: 10px;
+  border-style: double;
+  border-color: #c2baba;
+}
+
+.oq {
+  background-color: #ffffff;
+  height: 20px;
+}
